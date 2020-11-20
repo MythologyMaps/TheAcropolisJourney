@@ -16,4 +16,4 @@ After going outside, the only option the player has is to follow the streets up 
 
 On the way, the player will encounter his first clue.
 
-When the player walked a bit furter, the second chapter starts.
+When the player walked a bit further, the second chapter starts.
